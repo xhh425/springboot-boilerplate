@@ -13,5 +13,5 @@ import lombok.ToString;
 @ToString
 public class User {
     private String uname;
-    private String pwd;
+    private String upwd;
 }
